@@ -2,7 +2,6 @@ import React, { useState, useEffect } from 'react';
 import { useRouteMatch, Link } from 'react-router-dom';
 
 import { FaSatellite, FaCaretRight } from 'react-icons/fa';
-import { keyframes } from 'styled-components';
 import { Logo } from '../../components/Logo';
 import { RepositoryDetail, Issues } from './styles';
 
