@@ -5,7 +5,7 @@
 
 ### 💻 Preview
 
-<img alt="App preview" title="#weatherapp" src="./github/preview.gif" width="100%" />
+<img alt="App preview" title="#sattle" src="./github/preview.gif" width="100%" />
 
 ### 🔩 Functionalities
 
